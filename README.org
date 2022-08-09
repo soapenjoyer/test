@@ -11,3 +11,7 @@ XD
     int nigger;
   } lol_t;
 #+end_src
+
+** TODO smzago
+** TODO lmao
+** DONE not doen
