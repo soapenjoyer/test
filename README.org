@@ -1,0 +1,13 @@
+
+* FAGOOT
+
+XD
+
+~lol~
+
+#+begin_src c
+
+  typedef struct {
+    int nigger;
+  } lol_t;
+#+end_src
